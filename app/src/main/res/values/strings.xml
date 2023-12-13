@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interactive Standard Test Task</string>
+
+    <string name="main_fragment_description_text">Here you can fetch some points to later see the graph with them. Type how many points you want to fetch below</string>
+    <string name="main_fragment_fetch_button_label">Lets go!</string>
+    <string name="main_fragment_points_count_hint">Points count</string>
+
+    <string name="point_x_value">x : %.3f</string>
+    <string name="point_y_value">y : %.3f</string>
+</resources>
